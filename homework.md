@@ -13,3 +13,6 @@ Some of the character encoding algorithms include:
 5. ISCII: Coding scheme for representing various writing systems of India. The supported scripts are: Assamese, Bengali, Devanagari, , , Tamil, and Telugu etc.
 
 
+## 
+
+
