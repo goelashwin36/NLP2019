@@ -1,7 +1,7 @@
 Hindi Corpus
 
-Total Words: 214033
-Unique Words: 4365
+Total Words: 213189
+Unique Words: 4336
 
 The corpus was made with the help of an online tool: https://app.sketchengine.eu/.
 This tool helps in compiling a corpus by scraping the given URLs, removing the stop words followed by tokenization.
